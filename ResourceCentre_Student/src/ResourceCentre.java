@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-//javen team 1
+//javen
 
 public class ResourceCentre {
 
